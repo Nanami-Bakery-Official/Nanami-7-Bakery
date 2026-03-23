@@ -13,4 +13,4 @@ We found a hidden message in the bakery's logs. Can you decode it?
 * Your Engineering Brain 🧠
 
 ---
-*Created for the Cyber Summit 2026 - CyberTrace ESPITA*
+*Created for the Cyber Summit 2026 
